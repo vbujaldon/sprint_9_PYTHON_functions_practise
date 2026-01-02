@@ -7,6 +7,10 @@ Los ejercicios están orientados a **consolidar conceptos fundamentales** del le
 
 ## Contenido del repositorio
 
+1- PDF con 8 ejercicios, screenshot de código y explicaciones.
+2- CODE en un JUPYTER NOTEBOOK
+3- TXT con texto para analizar
+
 Los ejercicios incluyen, entre otros:
 
 - Definición y uso de **funciones**
