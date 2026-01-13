@@ -9,7 +9,7 @@ Los ejercicios están orientados a **consolidar conceptos fundamentales** del le
 
 1- PDF con 8 ejercicios, screenshot de código y explicaciones.
 2- CODE en un JUPYTER NOTEBOOK
-3- TXT con texto para analizar
+3- Dos TXT con textos para analizar
 
 Los ejercicios incluyen, entre otros:
 
